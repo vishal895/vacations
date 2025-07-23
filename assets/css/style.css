@@ -10484,3 +10484,19 @@ a.text-theme:hover,
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.logo-img {
+  width: 70px;         /* Adjust as needed */
+  height: 70px;        /* Must be equal to width for a perfect circle */
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional: subtle shadow */
+}
+.logo-img-3 {
+  width: 150px;         /* Adjust as needed */
+  height: 150px;        /* Must be equal to width for a perfect circle */
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional: subtle shadow */
+}
